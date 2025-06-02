@@ -4,11 +4,10 @@ version = "1.0.0"
 description = "Package for playing with elementary functions"
 readme = "README.md"
 requires-python = ">=3.12"
-license = {text = "MIT"}
+license = None
 authors = [{ name = "Tobias Ocula", email = "tobias.ocula@outlook.com" }]
 classifiers = [
-    "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: MIT License"
+    "Programming Language :: Python :: 3"
 ]
 
 [build-system]
